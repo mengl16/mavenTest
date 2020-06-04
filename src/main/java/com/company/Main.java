@@ -8,5 +8,6 @@ public class Main {
 	// write your code here
         System.out.println(new BigDecimal(0));
         System.out.println(new BigDecimal(1));
+        System.out.println(new BigDecimal(2));
     }
 }
