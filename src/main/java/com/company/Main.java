@@ -10,5 +10,6 @@ public class Main {
         System.out.println(new BigDecimal(1));
         System.out.println(new BigDecimal(2));
         System.out.println(new BigDecimal(3));
+        System.out.println(new BigDecimal(4));
     }
 }
